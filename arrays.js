@@ -3,7 +3,7 @@
 // function addElementToBeginningOfArray(array,marsa){
   function addElementToBeginningOfArray (array,element)
 //{array.unshift()
-{return (element,...array)}
+{return (element,...[array])}
 //return array
 
 // function destructivelyAddElementToBeginningOfArray (array,element)
