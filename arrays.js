@@ -2,7 +2,7 @@
 
 // function addElementToBeginningOfArray(array,marsa){
   function addElementToBeginningOfArray (array,element)
-  {array=["foo"]
+  {array=["foo",1]
 array.unshift()
 return array
 }
