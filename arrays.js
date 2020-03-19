@@ -1,13 +1,10 @@
 // var chocolateBars=["snickers", "hundred grand", "kitkat","skittles"]
 
 // function addElementToBeginningOfArray(array,marsa){
-  function addElementToBeginningOfArray (array,element)
-//{array.unshift()
-{return [element,...array]}
-//return array
+//function addElementToBeginningOfArray (array,element)
+//{return [element,...array]}
 
-// function destructivelyAddElementToBeginningOfArray (array,element)
-// {array=["foo",1]
-// // array.unshift()
-// return [1,...array]
-// }
+function destructivelyAddElementToBeginningOfArray (array,element)
+array.unshift()
+return [1,...array]
+}
