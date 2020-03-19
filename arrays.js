@@ -2,10 +2,9 @@
 
 // function addElementToBeginningOfArray(array,marsa){
   function addElementToBeginningOfArray (array,element)
-  // {array=["foo",1]
 //{array.unshift()
-(element,...array)
-return array
+return (element,...array)
+//return array
 }
 // function destructivelyAddElementToBeginningOfArray (array,element)
 // {array=["foo",1]
