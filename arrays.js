@@ -6,6 +6,6 @@
 
 function destructivelyAddElementToBeginningOfArray (array,element)
 {
-  array.unshit("foo",1)
+  array.unshit(1)
 return (array)
 }
