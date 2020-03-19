@@ -1,7 +1,7 @@
 // var chocolateBars=["snickers", "hundred grand", "kitkat","skittles"]
 
 // function addElementToBeginningOfArray(array,marsa){
-  function addElementToBeginningOfArray (array,1)
+  function addElementToBeginningOfArray (array,element)
   {array=["foo"]
 array.unshift()
 return array
@@ -9,3 +9,4 @@ return array
 // return addElementToBeginningOfArray()
 
 // function destructivelyAddElementToBeginningOfArray
+
